@@ -1,2 +1,3 @@
-!hi there i am elango
-i am from cheyyar.
+!Hi There I Am Elango.
+I Am From Cheyyar.
+I Am A Frontend Developer.
